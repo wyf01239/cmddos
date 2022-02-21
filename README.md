@@ -1,5 +1,5 @@
 # cmddos
-English Version:[[here]](./docs/english/README.md)
+English Version:[[here]](./ENGLISHREADME.md)
 
 *这是一个仿dos的batch项目。(灵感源于MSDOS 5.1和Fairyfar编写的WebDOS。)*
 
