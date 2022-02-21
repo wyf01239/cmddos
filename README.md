@@ -5,5 +5,5 @@ English Version:[[here]](./ENGLISHREADME.md)
 
 该项目目前处于初次开发阶段，可能有一些bug，敬请见谅。
 
-帮助文档:[[here]](./docs/chinese/docs.md)
+帮助文档:[[here]](./docs/chinese/main.md)
 
