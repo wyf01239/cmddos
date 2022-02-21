@@ -5,5 +5,5 @@
 
 The project is currently in the initial development phase and may have some bugs, please note that.
 
-Help documentation:[[here]](./docs/english/docs.md)
+Help documentation:[[here]](./docs/english/main.md)
 
